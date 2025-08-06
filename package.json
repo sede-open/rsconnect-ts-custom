@@ -42,7 +42,7 @@
     "lodash": "^4.17.21",
     "qs": "^6.11.0",
     "tar": "^6.2.1",
-    "tmp": "^0.2.1",
+    "tmp": "^0.2.4",
     "ts-jest": "^26.5.6",
     "ts-node": "^9.1.1",
     "ts-standard": "^9.0.0",
@@ -59,7 +59,7 @@
     "lodash": "^4.17.20",
     "qs": "^6.9.4",
     "tar": "^6.2.1",
-    "tmp": "^0.2.1",
+    "tmp": "^0.2.4",
     "@sede-open/rsconnect-ts-custom": "https://github.com/sede-open/rsconnect-ts-custom#active-branch"
   },
   "resolutions": {
